@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kumariashna/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kumariashna/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kumariashna/Leetcode-DSA/tree/master/0009-palindrome-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kumariashna/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kumariashna/Leetcode-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/kumariashna/Leetcode-DSA/tree/master/2235-add-two-integers) |
 ## Recursion
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumariashna/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kumariashna/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
