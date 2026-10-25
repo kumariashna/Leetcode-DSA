@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kumariashna/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kumariashna/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kumariashna/Leetcode-DSA/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/kumariashna/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kumariashna/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kumariashna/Leetcode-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/kumariashna/Leetcode-DSA/tree/master/2235-add-two-integers) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/kumariashna/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/kumariashna/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/kumariashna/Leetcode-DSA/tree/master/0010-regular-expression-matching) |
+| [0412-fizz-buzz](https://github.com/kumariashna/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kumariashna/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/kumariashna/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
