@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/kumariashna/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/kumariashna/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/kumariashna/Leetcode-DSA/tree/master/0010-regular-expression-matching) |
+| [0125-valid-palindrome](https://github.com/kumariashna/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kumariashna/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/kumariashna/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 ## Sliding Window
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kumariashna/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/kumariashna/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kumariashna/Leetcode-DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
